@@ -1,4 +1,4 @@
-# Stock-exchange
+# Stock-price
 
 This is my first streamlit based app
 
